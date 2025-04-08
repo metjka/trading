@@ -1,0 +1,7 @@
+### 1
+GET http://localhost:4001/history?symbol=BTCUSDT&from=1743600967398&to=1744032967398&interval=2h
+### 2
+
+GET http://localhost:4001/history
+
+###

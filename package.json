@@ -1,0 +1,20 @@
+{
+  "name": "trading",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node  --env-file=.env index.js"
+  },
+  "dependencies": {
+    "async": "^3.2.6",
+    "zod": "^3.24.2",
+    "jest": "^29.7.0",
+    "date-fns": "^4.1.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.15.0",
+    "node-binance-api": "^1.0.1"
+  },
+  "private": true
+}
